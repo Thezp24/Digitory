@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Digitory
 
-You can use the [editor on GitHub](https://github.com/Thezp24/Digitory/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Digitory is an inventory app that allows yo to keep track of stock. You can insert or update inventory by name, company name, and product id. you can also enter in the number of product in stock and price. Lastly Digitory offers a search feature where you can search a product and see how much is in stock and the price of the item. This app makes keep track of your inventory so much easier. I hope you enjoy this amazing app with a simplistic user interface!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link to Repl.it:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thezp24/Digitory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://repl.it/@ZPhip/Digitory
